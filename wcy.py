@@ -1,1 +1,0 @@
-print('wcy \'s code')
